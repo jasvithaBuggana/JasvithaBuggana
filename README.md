@@ -5,7 +5,7 @@ I'm Jasvitha Buggana, a passionate graduate student pursuing a Master of Science
 
 🌱 I'm currently learning advanced machine learning techniques, such as Regression, Classification and Clustering methods, to tackle complex data challenges.
 
-👯 I'm looking to collaborate on open-source projects related to data analytics, visualization, and predictive modeling.
+👯 I'm looking to collaborate on open-source projects related to data analytics, Devops, and predictive modeling.
 <!--
 **jasvithaBuggana/JasvithaBuggana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
