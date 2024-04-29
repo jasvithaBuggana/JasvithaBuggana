@@ -6,7 +6,7 @@ I'm Jasvitha Buggana, a passionate graduate student pursuing a Master of Science
 🌱 I'm currently learning advanced machine learning techniques, such as Regression, Classification and Clustering methods, to tackle complex data challenges.
 
 👯 I'm looking to collaborate on open-source projects related to data analytics, Devops, and predictive modeling.
-# My Python Project
+### Skills and Technologies:
 
 ![Python Logo](python-logo.png)
 
