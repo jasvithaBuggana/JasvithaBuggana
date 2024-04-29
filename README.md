@@ -9,9 +9,7 @@ I'm Jasvitha Buggana, a passionate graduate student pursuing a Master of Science
 ### Skills and Technologies:
 
 [<img src="https://www.python.org/static/img/python-logo.png" width="200">](https://www.python.org/)
-.header-content-inner span {
-  display: none;
-}
+
 
 
 
