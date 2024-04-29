@@ -8,7 +8,7 @@ I'm Jasvitha Buggana, a passionate graduate student pursuing a Master of Science
 👯 I'm looking to collaborate on open-source projects related to data analytics, Devops, and predictive modeling.
 ### Skills and Technologies:
 
-[<img src="https://www.python.org/static/img/python-logo.png" width="150">](https://www.python.org/)
+[<img src="https://www.python.org/static/img/python-logo.png" width="200">]
 
 
 
