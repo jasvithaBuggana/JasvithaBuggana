@@ -13,12 +13,7 @@ I'm actively seeking exciting roles in **Machine Learning Engineering**, **MLOps
 - [From Data to Decisions: Understanding Layoff Patterns](https://github.com/jasvithaBuggana/From-Data-to-Decisions-Understanding-Layoff-Patterns) - Data Analysis, Numpy, Pandas, Seaborn ,Matplotlib 
 
 ### Skills and Technologies:
-
-# My Project
-
-Here are my images with reduced spacing:
-
-<img src="file.png" width="60"> <img src="SQL.png" width="90"> <img src="HTML.png" width="60"> <img src="LINUX1.png" width="60"> <img src="SHELL.png" width="70"> <img src="ML.jpg" width="75"> <img src="AWS.png" width="70"> <img src="Azure.png" width="90"> <img src="GIT.png" width="70"> <img src="Jenkins.jpg" width="85"> <img src="Docker.png" width="70"> <img src="Ansible.jpg" width="90"><img src="KB.png" width="70">
+<img src="file.png" width="60"> <img src="SQL.png" width="90"> <img src="HTML.png" width="60"> <img src="HTML.png" width="80" style="margin-top: 10px; vertical-align: top;"> <img src="LINUX1.png" width="60"> <img src="SHELL.png" width="70"> <img src="ML.jpg" width="75"> <img src="AWS.png" width="70"> <img src="Azure.png" width="90"> <img src="GIT.png" width="70"> <img src="Jenkins.jpg" width="85"> <img src="Docker.png" width="70"> <img src="Ansible.jpg" width="90"><img src="KB.png" width="70">
 
 
 ## Contact: 
