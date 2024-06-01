@@ -5,7 +5,7 @@ I am Jasvitha Buggana, a dedicated Software Development Engineer with over 3 yea
 I am passionate about leveraging technology to solve real-world problems and continuously strive to learn and apply new skills. My goal is to contribute to innovative projects that push the boundaries of what's possible in software development.
 
 ### Exploring Opportunities:
-I'm actively seeking exciting roles in **Machine Learning Engineering**, **MLOps**, **Site Reliability Engineering (SRE)**, and **DevOps Engineering**. Let's innovate and build the future together!
+I'm actively seeking exciting roles in **Machine Learning Engineer**, **MLOps**, **Site Reliability Engineer (SRE)**, and **DevOps Engineer**. Let's innovate and build the future together!
 
 ## Projects:
 - [ML-Powered Customer Retention Model](https://github.com/jasvithaBuggana/ML-Powered-Customer-Retention-Model) - EDA, Data Visualization, ML models( K-NN, Decision Tree, Random Forest Trees, Logistic Regression)
