@@ -21,9 +21,6 @@ Here are my images with reduced spacing:
 <img src="file.png" width="60" style="margin-right: -10px;"> <img src="SQL.png" width="80"> <img src="HTML1.jpg" width="55"> <img src="LINUX1.png" width="60"> <img src="SHELL.png" width="70"> <img src="ML.jpg" width="75"> <img src="AWS.png" width="70"> <img src="Azure.png" width="90"> <img src="GIT.png" width="70"> <img src="Jenkins.jpg" width="85"> <img src="Docker.png" width="70"> <img src="Ansible.jpg" width="90"><img src="KB.png" width="70">
 
 
-
-![Logo](https://github.com/username/repository/blob/main/images/logo.png)
-
 ## Contact: 
 - Email: jasvitha.engineer@gmail.com
 - [Jasvitha Buggana's LinkedIn](https://www.linkedin.com/in/jasvitha-buggana/)
