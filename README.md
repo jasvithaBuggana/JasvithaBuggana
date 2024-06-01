@@ -1,14 +1,23 @@
-### Hi there 👋 
-### Welcome to my GitHub
+### Hi there 👋 Welcome to my GitHub
+### About Me
+I am a dedicated Software Development Engineer with over 3 years of experience at leading technology companies like Infosys and Unisys. Throughout my career, I have had the privilege of collaborating with esteemed clients such as HSBC and AIS2200. My work primarily focuses on automating CI/CD pipelines, developing machine learning modules, creating innovative features to reduce manual effort, and resolving complex bugs to enhance system efficiency.
 
-## About me 
-I'm Jasvitha Buggana, a passionate graduate student pursuing a Master of Science in Business Analytics at California State University East Bay. With a strong foundation in computer science and experience as a software engineer, I'm deeply motivated by the exciting potential of unlocking valuable insights through data analytics and transforming raw data into actionable information.
+I am passionate about leveraging technology to solve real-world problems and continuously strive to learn and apply new skills. My goal is to contribute to innovative projects that push the boundaries of what's possible in software development.
 
-🔭 I'm currently working on developing data analytics models for optimizing inventory management and sales forecasting.
+## Exploring Opportunities:
+I'm actively seeking exciting roles in **Machine Learning Engineering**, **MLOps**, **Site Reliability Engineering (SRE)**, and **DevOps Engineering**. Let's innovate and build the future together!
 
-🌱 I'm currently learning advanced machine learning techniques, such as Regression, Classification and Clustering methods, to tackle complex data challenges.
+## Education:
+- **Master of Science in Business Analytics (MSBA)**  
+  California State University, East Bay
+- **Master of Science in Computer Science Engineering (CSE)**  
+  G. Narayanamma Institute of Technology and Science
+- **Bachelor of Technology in Computer Science Engineering (CSE)**  
+  G. Pulla Reddy Engineering College
 
-👯 I'm looking to collaborate on open-source projects related to data analytics, Devops, and predictive modeling.
+## Projects:
+
+
 ### Skills and Technologies:
 
 <img src="python.jpg" width="50">
