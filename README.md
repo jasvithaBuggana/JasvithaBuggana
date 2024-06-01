@@ -14,7 +14,7 @@ I'm actively seeking exciting roles in **Machine Learning Engineering**, **MLOps
 
 ### Skills and Technologies:
 
-<img src="python.jpg" width="50"> <img src="SQL.png" width="70"> <img src="HTML1.png" width="70"> <img src="LINUX.jpg" width="70"> <img src="BASH.jpg" width="70"> <img src="ML.jpg" width="70"> <img src="AWS.jpg" width="70"> <img src="Azure.png" width="70"> <img src="Jenkins.jpg" width="70"> <img src="Docker.png" width="70"> <img src="Ansible.jpg" width="70"><img src="kubernetes.png" width="70">
+<img src="python.jpg" width="50"> <img src="SQL.png" width="70"> <img src="HTML1.jpg" width="70"> <img src="LINUX.jpg" width="70"> <img src="BASH.jpg" width="70"> <img src="ML.jpg" width="70"> <img src="AWS.jpg" width="70"> <img src="Azure.png" width="70"> <img src="Jenkins.jpg" width="70"> <img src="Docker.png" width="70"> <img src="Ansible.jpg" width="70"><img src="kubernetes.png" width="70">
 
 
 
