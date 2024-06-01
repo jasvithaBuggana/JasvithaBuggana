@@ -8,25 +8,14 @@ I am passionate about leveraging technology to solve real-world problems and con
 I'm actively seeking exciting roles in **Machine Learning Engineering**, **MLOps**, **Site Reliability Engineering (SRE)**, and **DevOps Engineering**. Let's innovate and build the future together!
 
 ## Projects:
-- [ML-Powered Customer Retention Model](https://github.com/jasvithaBuggana/ML-Powered-Customer-Retention-Model)
-- [Real Estate Price Prediction](https://github.com/jasvithaBuggana/Real-Estate-Price-Prediction-)
-- [From Data to Decisions: Understanding Layoff Patterns](https://github.com/jasvithaBuggana/From-Data-to-Decisions-Understanding-Layoff-Patterns)
-
-
-## Education:
-- **Master of Science in Business Analytics (MSBA)**  
-  California State University, East Bay
-- **Master of Science in Computer Science Engineering (CSE)**  
-  G. Narayanamma Institute of Technology and Science
-- **Bachelor of Technology in Computer Science Engineering (CSE)**  
-  G. Pulla Reddy Engineering College
-
-## Projects:
-
+- [ML-Powered Customer Retention Model](https://github.com/jasvithaBuggana/ML-Powered-Customer-Retention-Model) - EDA, Data Visualization, ML models( K-NN, Decision Tree, Random Forest Trees, Logistic Regression)
+- [Real Estate Price Prediction](https://github.com/jasvithaBuggana/Real-Estate-Price-Prediction-) - Data Cleaning, Web scraping
+- [From Data to Decisions: Understanding Layoff Patterns](https://github.com/jasvithaBuggana/From-Data-to-Decisions-Understanding-Layoff-Patterns) - Data Analysis, Numpy, Pandas, Seaborn ,Matplotlib 
 
 ### Skills and Technologies:
 
 <img src="python.jpg" width="50">
+<img src="SQL.png" width="50">
 
 
 
