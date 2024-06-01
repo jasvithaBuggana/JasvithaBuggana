@@ -13,7 +13,7 @@ I'm actively seeking exciting roles in **Machine Learning Engineering**, **MLOps
 - [From Data to Decisions: Understanding Layoff Patterns](https://github.com/jasvithaBuggana/From-Data-to-Decisions-Understanding-Layoff-Patterns) - Data Analysis, Numpy, Pandas, Seaborn ,Matplotlib 
 
 ### Skills and Technologies:
-<img src="file.png" width="60"> <img src="SQL.png" width="55"> <img src="LINUX.png" width="55"> <img src="BASH.png" width="60"> <img src="ML1.png" width="65"> <img src="AWS.png" width="85"> <img src="AZ.png" width="57"> <img src="JK.png" width="45"> <img src="DOC.png" width="85"> <img src="AN.png" width="60"><img src="KB.png" width="70">
+<img src="file.png" width="60"> <img src="SQL.png" width="55"> <img src="LINUX.png" width="55"> <img src="BASH.png" width="60"> <img src="ML1.png" width="65"> <img src="AWS.png" width="85"> <img src="AZ.png" width="57"> <img src="JK.png" width="45"> <img src="DOC.png" width="85"> <img src="AN.png" width="60"><img src="KBT.png" width="70">
 
 
 ## Contact: 
