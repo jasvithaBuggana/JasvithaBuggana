@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+### Welcome to my GitHub
+
+## About me 
 I'm Jasvitha Buggana, a passionate graduate student pursuing a Master of Science in Business Analytics at California State University East Bay. With a strong foundation in computer science and experience as a software engineer, I'm deeply motivated by the exciting potential of unlocking valuable insights through data analytics and transforming raw data into actionable information.
 
 🔭 I'm currently working on developing data analytics models for optimizing inventory management and sales forecasting.
