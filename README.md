@@ -14,7 +14,7 @@ I'm actively seeking exciting roles in **Machine Learning Engineering**, **MLOps
 
 ### Skills and Technologies:
 
-<img src="python.jpg" width="50"> <img src="SQL.png" width="50">
+<img src="python.jpg" width="50"> <img src="SQL.png" width="70">
 
 
 
