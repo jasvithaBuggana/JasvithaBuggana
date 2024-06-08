@@ -10,7 +10,7 @@ I'm actively seeking roles in **Machine Learning Engineer**, **MLOps**, **Site R
 ## Projects:
 - [ML-Powered Customer Retention Model](https://github.com/jasvithaBuggana/ML-Powered-Customer-Retention-Model) - EDA, Data Visualization, ML models( K-NN, Decision Tree, Random Forest Trees, Logistic Regression)
 - [Real Estate Price Prediction](https://github.com/jasvithaBuggana/Real-Estate-Price-Prediction-) - Data Cleaning, Web scraping
-- [BigData Project](https://github.com/jasvithaBuggana/BigData-Project)
+- [BigData Project](https://github.com/jasvithaBuggana/BigData-Project) - Python, Hadoop, Hive, Pig
 - [From Data to Decisions: Understanding Layoff Patterns](https://github.com/jasvithaBuggana/From-Data-to-Decisions-Understanding-Layoff-Patterns) - Data Analysis, Python( Numpy, Pandas, Seaborn ,Matplotlib)
 
 ### Skills and Technologies:
