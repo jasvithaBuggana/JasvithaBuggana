@@ -10,7 +10,7 @@ I'm actively seeking roles in **Machine Learning Engineer**, **MLOps**, **Site R
 ## Projects:
 - [Telecom Customer Churn Prediction](https://github.com/jasvithaBuggana/Telecom-Customer-Churn-Prediction) - EDA, Data Visualization, ML models( K-NN, Decision Tree, Random Forest Trees, Logistic Regression)
 - [Real Estate Price Prediction](https://github.com/jasvithaBuggana/Real-Estate-Price-Prediction-) - Data Cleaning, Web scraping, Regression Model
-- [BigData Project](https://github.com/jasvithaBuggana/BigData-Project) - Python, Hadoop, Hive, Pig
+- [NCDC ClimateRecords BigData Analytics](https://github.com/jasvithaBuggana/NCDC-ClimateRecords-Big-Data-Analytics) - Python, Hadoop, Hive, Pig
 
 ### Skills and Technologies:
 <img src="file.png" width="60"> <img src="SQL.png" width="55"> <img src="LINUX.png" width="55"> <img src="BASH.png" width="60"> <img src="ML1.png" width="65"> <img src="AWS.png" width="85"> <img src="AZ.png" width="57"> <img src="JK.png" width="45"> <img src="DOC.png" width="85"> <img src="AN.png" width="60"><img src="KBT.png" width="58">
