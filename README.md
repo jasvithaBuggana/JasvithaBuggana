@@ -20,7 +20,7 @@ I'm actively seeking roles in **Machine Learning Engineer**, **MLOps**, **Site R
 ## Contact: 
 - Email: jasvitha.engineer@gmail.com
 - [Jasvitha Buggana's LinkedIn](https://www.linkedin.com/in/jasvitha-buggana/)
-- [Portfolio](https://jasvithabuggana.github.io/Portfolio/index.html)
+- [My Portfolio](https://jasvithabuggana.github.io/JBPortfolio/#home)
 
 
 
