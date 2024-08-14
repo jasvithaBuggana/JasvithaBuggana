@@ -9,7 +9,9 @@ I'm actively seeking roles in **Site Reliability Engineer (SRE - DevOps)**, **De
 
 ## DevOps Projects: 
 - [Amazon-App-Deployment-A-DevSecOps-Approach](https://github.com/jasvithaBuggana/Amazon-App-Deployment-A-DevSecOps-Approach)
-- 
+- [Cloud-Driven-DevOps-Scaling-Infrastructure-with-AWS](https://github.com/jasvithaBuggana/Cloud-Driven-DevOps-Scaling-Infrastructure-with-AWS)
+- [Pipeline-Maestro-Orchestrating-Java-Deployments](https://github.com/jasvithaBuggana/Pipeline-Maestro-Orchestrating-Java-Deployments)
+- [Streamlined-Python-Deployments-on-Kubernetes](https://github.com/jasvithaBuggana/Streamlined-Python-Deployments-on-Kubernetes)
 ## Analytics Projects:
 - [Telecom Customer Churn Prediction](https://github.com/jasvithaBuggana/Telecom-Customer-Churn-Prediction) - EDA, Data Visualization, ML models( K-NN, Decision Tree, Random Forest Trees, Logistic Regression)
 - [Real Estate Price Prediction](https://github.com/jasvithaBuggana/Real-Estate-Price-Prediction-) - Data Cleaning, Web scraping, Regression Model
