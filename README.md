@@ -8,6 +8,7 @@ I am passionate about leveraging technology to solve real-world problems and con
 I'm actively seeking roles in **Site Reliability Engineer (SRE - DevOps)**, **DevOps Engineer** and **Cloud Engineer**. Let's innovate and build the future together!
 
 ## DevOps Projects: 
+- [Amazon-App-Deployment-A-DevSecOps-Approach](https://github.com/jasvithaBuggana/Amazon-App-Deployment-A-DevSecOps-Approach)
 - 
 ## Analytics Projects:
 - [Telecom Customer Churn Prediction](https://github.com/jasvithaBuggana/Telecom-Customer-Churn-Prediction) - EDA, Data Visualization, ML models( K-NN, Decision Tree, Random Forest Trees, Logistic Regression)
