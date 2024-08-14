@@ -1,13 +1,15 @@
 ## Hi there, Welcome to my GitHub 👋 
 ### About Me
-I am Jasvitha Buggana, a dedicated Software Development Engineer with over 3 years of experience at leading technology companies like **Infosys** and **Unisys**. Throughout my career, I have had the privilege of collaborating with esteemed clients such as **HSBC**, **Wells Fargo** and **DNB**. My work primarily focuses on automating CI/CD pipelines, developing machine learning modules, creating innovative features to reduce manual effort, and resolving complex bugs to enhance system efficiency.
+I am Jasvitha Buggana, a dedicated SRE/DevOps Engineer with over 4 years of experience at leading technology companies like **Infosys** , **Unisys** and **Compass Group USA**. Throughout my career, I have had the privilege of collaborating with esteemed clients such as **HSBC**, **America's SBDC** and **DNB**. My work primarily focuses on automating CI/CD pipelines, developing machine learning modules, creating innovative features to reduce manual effort, and resolving complex bugs to enhance system efficiency.
 
 I am passionate about leveraging technology to solve real-world problems and continuously strive to learn and apply new skills. My goal is to contribute to innovative projects that push the boundaries of what's possible in software development.
 
 ### Exploring Opportunities:
-I'm actively seeking roles in **Machine Learning Engineer**, **MLOps**, **Site Reliability Engineer (SRE)**, and **DevOps Engineer**. Let's innovate and build the future together!
+I'm actively seeking roles in **Site Reliability Engineer (SRE - DevOps)**, **DevOps Engineer** and **Cloud Engineer**. Let's innovate and build the future together!
 
-## Projects:
+## DevOps Projects: 
+- 
+## Analytics Projects:
 - [Telecom Customer Churn Prediction](https://github.com/jasvithaBuggana/Telecom-Customer-Churn-Prediction) - EDA, Data Visualization, ML models( K-NN, Decision Tree, Random Forest Trees, Logistic Regression)
 - [Real Estate Price Prediction](https://github.com/jasvithaBuggana/Real-Estate-Price-Prediction-) - Data Cleaning, Web scraping, Regression Model
 - [NCDC ClimateRecords BigData Analytics](https://github.com/jasvithaBuggana/NCDC-ClimateRecords-Big-Data-Analytics) - Python, Hadoop, Hive, Pig
@@ -18,7 +20,7 @@ I'm actively seeking roles in **Machine Learning Engineer**, **MLOps**, **Site R
 
 
 ## Contact: 
-- Email: jasvitha.engineer@gmail.com
+- Email: jasvitha.engineer@gmail.com , jasvitha.devops@gmail.com
 - [Jasvitha Buggana's LinkedIn](https://www.linkedin.com/in/jasvitha-buggana/)
 - [My Portfolio](https://jasvithabuggana.github.io/JBPortfolio/#home)
 
