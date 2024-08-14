@@ -12,11 +12,11 @@ I'm actively seeking roles in **Site Reliability Engineer (SRE - DevOps)**, **De
 - [Cloud-Driven-DevOps-Scaling-Infrastructure-with-AWS](https://github.com/jasvithaBuggana/Cloud-Driven-DevOps-Scaling-Infrastructure-with-AWS)
 - [Pipeline-Maestro-Orchestrating-Java-Deployments](https://github.com/jasvithaBuggana/Pipeline-Maestro-Orchestrating-Java-Deployments)
 - [Streamlined-Python-Deployments-on-Kubernetes](https://github.com/jasvithaBuggana/Streamlined-Python-Deployments-on-Kubernetes)
+- [Integrating AWS DevOps CI/CD Pipeline](https://github.com/jasvithaBuggana/Integrating-AWS-DevOps-CI-CD-Pipeline-) 
 ## Analytics Projects:
 - [Telecom Customer Churn Prediction](https://github.com/jasvithaBuggana/Telecom-Customer-Churn-Prediction) - EDA, Data Visualization, ML models( K-NN, Decision Tree, Random Forest Trees, Logistic Regression)
 - [Real Estate Price Prediction](https://github.com/jasvithaBuggana/Real-Estate-Price-Prediction-) - Data Cleaning, Web scraping, Regression Model
 - [NCDC ClimateRecords BigData Analytics](https://github.com/jasvithaBuggana/NCDC-ClimateRecords-Big-Data-Analytics) - Python, Hadoop, Hive, Pig
-- [Integrating AWS DevOps CI/CD Pipeline](https://github.com/jasvithaBuggana/Integrating-AWS-DevOps-CI-CD-Pipeline-) - AWS services (S3, EC2, CodeCommit, CodeBuild, CodeDeploy, Codepipeline)
 
 ### Skills and Technologies:
 <img src="file.png" width="60"> <img src="SQL.png" width="55"> <img src="LINUX.png" width="55"> <img src="BASH.png" width="60"> <img src="ML1.png" width="65"> <img src="AWS.png" width="85"> <img src="AZ.png" width="57"> <img src="JK.png" width="45"> <img src="DOC.png" width="85"> <img src="AN.png" width="60"><img src="KBT.png" width="58">
