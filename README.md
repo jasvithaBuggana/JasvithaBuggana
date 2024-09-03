@@ -7,7 +7,7 @@ I am passionate about leveraging technology to solve real-world problems and con
 ### Exploring Opportunities:
 I'm actively seeking roles in **Site Reliability Engineer (SRE - DevOps)**, **DevOps Engineer** and **Cloud Engineer**. Let's innovate and build the future together!
 
-## DevOps Projects: 
+## DevOps/Cloud Projects: 
 - [Amazon-App-Deployment-A-DevSecOps-Approach](https://github.com/jasvithaBuggana/Amazon-App-Deployment-A-DevSecOps-Approach)
 - [Cloud-Driven-DevOps-Scaling-Infrastructure-with-AWS](https://github.com/jasvithaBuggana/Cloud-Driven-DevOps-Scaling-Infrastructure-with-AWS)
 - [Pipeline-Maestro-Orchestrating-Java-Deployments](https://github.com/jasvithaBuggana/Pipeline-Maestro-Orchestrating-Java-Deployments)
